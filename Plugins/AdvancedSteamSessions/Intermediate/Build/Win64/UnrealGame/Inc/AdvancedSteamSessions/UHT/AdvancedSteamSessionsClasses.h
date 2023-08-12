@@ -7,9 +7,9 @@
 #pragma once
 
 
-#include "../../../../../../../../../Users/user/Documents/Unreal Projects/VRExpPluginExample/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
-#include "../../../../../../../../../Users/user/Documents/Unreal Projects/VRExpPluginExample/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
-#include "../../../../../../../../../Users/user/Documents/Unreal Projects/VRExpPluginExample/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamNotificationsSubsystem.h"
-#include "../../../../../../../../../Users/user/Documents/Unreal Projects/VRExpPluginExample/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
-#include "../../../../../../../../../Users/user/Documents/Unreal Projects/VRExpPluginExample/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
+#include "../../../../../../../../../Users/user/Documents/Unreal Projects/GBUDollarsVR/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
+#include "../../../../../../../../../Users/user/Documents/Unreal Projects/GBUDollarsVR/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
+#include "../../../../../../../../../Users/user/Documents/Unreal Projects/GBUDollarsVR/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamNotificationsSubsystem.h"
+#include "../../../../../../../../../Users/user/Documents/Unreal Projects/GBUDollarsVR/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
+#include "../../../../../../../../../Users/user/Documents/Unreal Projects/GBUDollarsVR/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
 
